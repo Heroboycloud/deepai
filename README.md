@@ -1,1 +1,4 @@
-# Deepseek app\n\n## Description\n\n## Installation\n\n## Usage\n\n## License\n
+# Deepseek app
+
+> [!info]
+> built for easy use of openrouter api
